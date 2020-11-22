@@ -2,3 +2,6 @@ Let's GitHub.
 learn a basic workflow.
 git add
 fit commit
+git rm
+git status
+git log

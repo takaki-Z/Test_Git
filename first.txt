@@ -1,2 +1,4 @@
 Let's GitHub.
 learn a basic workflow.
+git add
+fit commit
